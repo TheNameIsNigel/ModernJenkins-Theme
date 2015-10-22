@@ -18,7 +18,7 @@
     display: block;
     width: 25px;
     height: 40px;
-    background: url(/*place-your-domain-here*/"/userContent/jenkins.png") 50% 50% no-repeat;
+    background: url(http://pac.gocanarytel.com/jenkins.png") 50% 50% no-repeat;
     background-size: 25px;
 }
 #jenkins-name-icon { display: none }
